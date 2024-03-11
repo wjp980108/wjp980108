@@ -5,7 +5,6 @@
 ## 🤾‍♂️ Open Source Contributions
 
 - [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - A draggable component compatible with both Vue 2 and Vue 3. It supports features such as drag-and-drop sorting, copying, deleting, adding, moving, animations, and event handling.
-- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - A responsive solution for large screens compatible with Vue 2 and Vue 3. It offers customization options for scaling ratio, scaling center, scaling animations, animation duration, and animation curves.
 
 ## 🛠 Technology Stack
 
