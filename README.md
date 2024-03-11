@@ -16,7 +16,7 @@
 
 ## ☎️ Contact Me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:yangpanteng@gmail.com)
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:wjp_github@163.com)
 - VX: localhost:1023
 
 ## 🏆 Github Status
