@@ -23,7 +23,11 @@
 
 
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=baiwusanyu-c&theme=react-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeaAster"  align="right">
+  </picture>
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAster&theme=transparent&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeaAster">
 </div>
