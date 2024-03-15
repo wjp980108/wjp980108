@@ -21,8 +21,8 @@
 
 ## 🏆 Github Status
 
-<div style="display: flex;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAster&theme=transparent&layout=compact">
-      <img src="https://github-readme-stats.vercel.app/api?username=SeaAster">
-    </div>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAster&theme=transparent&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeaAster">
+</div>
 
