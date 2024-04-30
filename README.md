@@ -7,6 +7,8 @@
 
 - [element-plus](https://github.com/element-plus/element-plus) - A Vue.js 3 UI Library made by Element team 
 - [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - A draggable component compatible with both Vue 2 and Vue 3. It supports features such as drag-and-drop sorting, copying, deleting, adding, moving, animations, and event handling.
+- [vueuser](https://github.com/vueuse/vueuse) - A Collection of essential Vue Composition Utilities for Vue 2 and 3
+
 
 ## 🛠 Technology Stack
 
@@ -18,7 +20,7 @@
 
 ## ☎️ Contact Me
 
-- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:wjp_github@163.com)
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:jianpengwu.github@gmai.coml)
 - VX: localhost:1023
 
 ## 🏆 Github Status
