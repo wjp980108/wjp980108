@@ -23,6 +23,6 @@
 
 ## 🏆 Github Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeaAster"  align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=wjp980108"  align="right">
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaAster&theme=transparent&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjp980108&theme=transparent&layout=compact">
